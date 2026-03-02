@@ -186,18 +186,3 @@ Returns final predicted value as an integer.
 * Add model performance metrics to documentation
 
 ---
-
-## 👨‍💻 Author
-
-Developed as part of a machine learning insurance prediction system.
-
----
-
-If you want, I can also generate:
-
-* A more detailed industry-level README
-* A version with model performance metrics section
-* A version ready for deployment documentation
-* Or a documentation-style README for academic submission
-
-Tell me which direction this project is meant for — portfolio, internship, or production.
